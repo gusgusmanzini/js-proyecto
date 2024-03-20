@@ -1,3 +1,9 @@
+//prompt +18
+
+window.prompt("Sos mayor de edad?")
+
+
+
 let openShopping = document.querySelector('.shopping');
 let closeShopping = document.querySelector('.closeShopping');
 let list = document.querySelector('.list');
